@@ -21,7 +21,7 @@ exercism configure --token=VOTRE_TOKEN
 On doit ensuite dire à Exercism où il doit enregistrer les exercices. Pour cela, on utilise la commande suivante:
 
 ```bash
-exercism configure --dir=/workspaces/challenge-crystal/exercices/
+exercism configure -w /workspaces/challenge-crystal/exercices/
 ```
 
 ### 3. Récupération des exercices
